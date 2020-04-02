@@ -25,3 +25,27 @@ Películas
     
 </body>
 </html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Películas</title>
+</head>
+<body>
+    <h1>Películas definitivas</h1>
+    <p>Estas son las peñículas que veriamos de una vez:</p>
+    <ol>
+        <li>El caballero oscuro</li> <img src="img/caballero oscuro.jpg" width="10%" height="150">
+        <li>The game</li> <img src="img/the game.jpg" width="10%" height="150">
+        <li>Un ciudadano ejemplar</li>          <img src="img/ciudadano ejemplar.jpg" alt="caratula de la pelicula" width="10%" height="150">
+        <li>Shutter Island</li> <img src="img/shutter island.jpg" width="10%" height="150">
+        <li>Mystic River</li> <img src="img/mystic river.jpg" width="10%" height="150">
+    </ol>
+    
+</body>
+</html>
